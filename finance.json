@@ -1,0 +1,21 @@
+{
+  "chronocoins": 990,
+  "budget_remaining": 10,
+  "last_budget_reset": 1771395484.603703,
+  "total_earned": 1030,
+  "total_spent": 90,
+  "spending_by_category": {
+    "feed": 56,
+    "play": 24,
+    "clean": 10,
+    "health": 0,
+    "rest": 0
+  },
+  "spending_by_era": {
+    "Egypt": 0,
+    "Greece": 0,
+    "Medieval": 0,
+    "Industrial": 0,
+    "Modern": 90
+  }
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "era": "egypt",
+    "total_earned": 30,
+    "total_spent": 0,
+    "savings": 30,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T02:22:13.512046"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 30,
+    "total_spent": 0,
+    "savings": 30,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T02:25:01.945201"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 30,
+    "total_spent": 0,
+    "savings": 30,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T02:25:29.534145"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 30,
+    "total_spent": 0,
+    "savings": 30,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T02:28:28.403992"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 70,
+    "total_spent": 30,
+    "savings": 40,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T13:42:43.385241"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 50,
+    "total_spent": 0,
+    "savings": 50,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T13:43:27.313412"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 70,
+    "total_spent": 25,
+    "savings": 45,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T19:21:43.330693"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 80,
+    "total_spent": 35,
+    "savings": 45,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T21:50:12.529605"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 50,
+    "total_spent": 0,
+    "savings": 50,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T22:14:09.318425"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 200,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T22:16:16.480444"
+  },
+  {
+    "era": "greece",
+    "total_earned": 300,
+    "total_spent": 0,
+    "savings": 300,
+    "most_spent_category": "feed",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-02-17T22:16:33.336058"
+  },
+  {
+    "era": "medieval",
+    "total_earned": 600,
+    "total_spent": 0,
+    "savings": 600,
+    "most_spent_category": "feed",
+    "historical_concept": "Feudal Society and Medieval Life",
+    "timestamp": "2026-02-17T22:17:14.827883"
+  },
+  {
+    "era": "industrial",
+    "total_earned": 800,
+    "total_spent": 0,
+    "savings": 800,
+    "most_spent_category": "feed",
+    "historical_concept": "Industry and Urban Growth",
+    "timestamp": "2026-02-17T22:17:32.415660"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-17T23:33:21.091374"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 50,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-18T17:11:23.768019"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 50,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-18T17:13:29.913217"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-18T17:46:30.551796"
+  },
+  {
+    "era": "greece",
+    "total_earned": 400,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-02-18T17:46:46.545604"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-18T21:55:28.926526"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-18T21:56:34.850201"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-18T22:12:04.231625"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T02:37:38.149145"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T02:39:15.892164"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T02:47:00.583839"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T02:51:15.673541"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T02:52:47.404475"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T02:55:02.677561"
+  },
+  {
+    "era": "greece",
+    "total_earned": 400,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-02-19T02:55:30.580757"
+  },
+  {
+    "era": "medieval",
+    "total_earned": 600,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Feudal Society and Medieval Life",
+    "timestamp": "2026-02-19T02:55:43.673335"
+  },
+  {
+    "era": "industrial",
+    "total_earned": 800,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Industry and Urban Growth",
+    "timestamp": "2026-02-19T02:56:01.209218"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 210,
+    "total_spent": 13,
+    "savings": 0,
+    "most_spent_category": "play",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T04:40:58.489981"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 30,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T17:18:28.850449"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 410,
+    "total_spent": 293,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T17:41:16.767069"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T18:29:59.687595"
+  },
+  {
+    "era": "greece",
+    "total_earned": 400,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-02-19T18:30:49.447251"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 10,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T22:59:30.905609"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 10,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T23:16:37.277196"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 240,
+    "total_spent": 35,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-19T23:21:08.282000"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 240,
+    "total_spent": 57,
+    "savings": 50,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-02-20T07:41:53.994752"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 243,
+    "savings": 67,
+    "most_spent_category": "health",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-03-31T16:41:15.481733"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-01T14:19:51.597044"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-01T16:44:47.502498"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-03T00:35:33.072697"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-03T14:29:06.793838"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-03T15:58:59.494251"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 248,
+    "savings": 0,
+    "most_spent_category": "play",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-03T16:35:24.761339"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 520,
+    "total_spent": 250,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-03T23:37:12.519596"
+  },
+  {
+    "era": "greece",
+    "total_earned": 720,
+    "total_spent": 250,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-04-03T23:38:13.771933"
+  },
+  {
+    "era": "medieval",
+    "total_earned": 920,
+    "total_spent": 250,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Feudal Society and Medieval Life",
+    "timestamp": "2026-04-03T23:38:58.140685"
+  },
+  {
+    "era": "industrial",
+    "total_earned": 1120,
+    "total_spent": 250,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Industry and Urban Growth",
+    "timestamp": "2026-04-03T23:39:34.592843"
+  },
+  {
+    "era": "modern",
+    "total_earned": 1320,
+    "total_spent": 250,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Technology and Global Responsibility",
+    "timestamp": "2026-04-03T23:40:19.522545"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 35,
+    "savings": 50,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-04T10:50:19.224178"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 210,
+    "total_spent": 22,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-04T11:00:01.483945"
+  },
+  {
+    "era": "greece",
+    "total_earned": 410,
+    "total_spent": 56,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-04-04T11:01:43.180742"
+  },
+  {
+    "era": "medieval",
+    "total_earned": 630,
+    "total_spent": 100,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Feudal Society and Medieval Life",
+    "timestamp": "2026-04-04T11:03:57.580342"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 69,
+    "savings": 20,
+    "most_spent_category": "play",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-04T13:55:57.128142"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 340,
+    "total_spent": 386,
+    "savings": 0,
+    "most_spent_category": "play",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-04T16:27:07.231076"
+  },
+  {
+    "era": "greece",
+    "total_earned": 540,
+    "total_spent": 425,
+    "savings": 0,
+    "most_spent_category": "play",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-04-04T16:28:19.894436"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 100,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-05T18:12:20.689114"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 0,
+    "savings": 0,
+    "most_spent_category": "None",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-05T19:05:22.015302"
+  },
+  {
+    "era": "greece",
+    "total_earned": 460,
+    "total_spent": 60,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Democracy and the Olympics",
+    "timestamp": "2026-04-05T19:06:19.834709"
+  },
+  {
+    "era": "medieval",
+    "total_earned": 690,
+    "total_spent": 82,
+    "savings": 0,
+    "most_spent_category": "feed",
+    "historical_concept": "Feudal Society and Medieval Life",
+    "timestamp": "2026-04-05T19:07:23.726099"
+  },
+  {
+    "era": "industrial",
+    "total_earned": 940,
+    "total_spent": 126,
+    "savings": 0,
+    "most_spent_category": "play",
+    "historical_concept": "Industry and Urban Growth",
+    "timestamp": "2026-04-05T19:08:14.295029"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 210,
+    "total_spent": 35,
+    "savings": 40,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-06T23:18:02.636344"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 240,
+    "total_spent": 35,
+    "savings": 100,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-08T18:29:54.395015"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 230,
+    "total_spent": 23,
+    "savings": 80,
+    "most_spent_category": "health",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-08T18:45:21.455790"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 220,
+    "total_spent": 35,
+    "savings": 50,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-08T19:13:21.095177"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 200,
+    "total_spent": 33,
+    "savings": 0,
+    "most_spent_category": "health",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-09T01:13:19.370951"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 210,
+    "total_spent": 30,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-09T20:59:29.726993"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 250,
+    "total_spent": 40,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-10T11:40:24.369583"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 220,
+    "total_spent": 35,
+    "savings": 0,
+    "most_spent_category": "clean",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-04-10T12:05:40.060020"
+  },
+  {
+    "era": "egypt",
+    "total_earned": 230,
+    "total_spent": 105,
+    "savings": 0,
+    "most_spent_category": "play",
+    "historical_concept": "Engineering the Pyramids",
+    "timestamp": "2026-06-10T14:09:00.304326"
+  }
+]
